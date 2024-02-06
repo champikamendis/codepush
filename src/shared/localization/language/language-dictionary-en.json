@@ -1,0 +1,18 @@
+{
+  "labels": {
+    "welcomeText": "Welcome to Price Retail App",
+    "dashboard": "Dashboard",
+    "explore": "Explore",
+    "settings": "Settings",
+    "loginTitle": "Let's get you started",
+    "userName": "Username",
+    "password": "Password",
+    "login": "Login"
+  },
+
+  "messages": {
+    "changeLanguageToEnglish": "Change language to English",
+    "changeThemeToDark": "Change to dark",
+    "changeThemeToLight": "Change to light"
+  }
+}
